@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-responsive-carousel": "^3.2.23",
+    "react-router": "^6.15.0"
+  }
+}
